@@ -11,7 +11,7 @@ int main() {
 
     cout << "--- Resultados ---" << endl;
     cout << "Suma: " << num1 + num2 << endl;
-    cout << "Resta: " << num1 - num2 << endl;4
+    cout << "Resta: " << num1 - num2 << endl;
     cout << "Multiplicacion: " << num1 * num2 << endl;
 
     if (num2 != 0) {
